@@ -1,10 +1,11 @@
-"Objetivo de la práctica":
+OBJETIVO DE LA PRACTICA
 
 -Trabajar con arreglos o diccionarios
+
 -Conocer la arquitectura Cliente/Servidor
+
 -Conocer a las estructuras de Json
 
--¿Qué ventajas y desventajas tiene trabajar con dicconarios
 
 VENTAJAS:
 
